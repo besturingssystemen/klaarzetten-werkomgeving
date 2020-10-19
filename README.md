@@ -1,3 +1,11 @@
+# Inhoudsopgave
+- [Inhoudsopgave](#inhoudsopgave)
+- [Leesmateriaal](#leesmateriaal)
+- [Video](#video)
+- [Linux-omgeving](#linux-omgeving)
+- [Packages](#packages)
+- [xv6](#xv6)
+
 # Leesmateriaal
 
 In deze oefenzittingenreeks werken we met het besturingsssysteem xv6. 
@@ -7,7 +15,11 @@ Ter voorbereiding van de oefenzitting vragen we om het eerste hoofdstuk (*Operat
 
 > :bulb: In de komende stappen van de voorbereiding kan er veel wachttijd zijn bij het downloaden en installeren van Ubuntu en de packages. Lees dit materiaal terwijl je moet wachten op de installaties.
 
+# Video
 
+In onderstaande video wordt deze tutorial overlopen.
+
+[![Bekijk de video](https://img.youtube.com/vi/vjJW36/hqdefault.jpg)](https://youtu.be/vjJW36_q_sg)
 
 # Linux-omgeving
 
