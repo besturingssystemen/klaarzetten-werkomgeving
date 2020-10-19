@@ -31,11 +31,19 @@ Indien je nog geen werkende Linux-omgeving geïnstalleerd hebt kan je stap 1 (en
 
 # Packages
 
-Open een terminal met <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>. Installeer alle nodige packages in Ubuntu:
+Open een terminal met <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>. 
 
-```shell
-sudo apt install build-essential qemu-system-misc gcc-riscv64-linux-gnu 
-```
+* Update je Linux-omgeving:
+    ```shell
+    sudo apt update
+    sudo apt upgrade
+    ```
+
+* Installeer alle nodige packages in Ubuntu:
+
+    ```shell
+    sudo apt install build-essential qemu-system-misc gcc-riscv64-linux-gnu 
+    ```
 
 # xv6
 
