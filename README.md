@@ -19,7 +19,7 @@ Ter voorbereiding van de oefenzitting vragen we om het eerste hoofdstuk (*Operat
 
 In onderstaande video wordt deze tutorial overlopen.
 
-[![Bekijk de video](https://img.youtube.com/vi/vjJW36/hqdefault.jpg)](https://youtu.be/vjJW36_q_sg)
+[![Bekijk de video](https://img.youtube.com/vi/vjJW36_q_sg/hqdefault.jpg)](https://youtu.be/vjJW36_q_sg)
 
 # Linux-omgeving
 
