@@ -25,7 +25,7 @@ In onderstaande video wordt deze tutorial overlopen.
 
 Om de oefenzittingen van dit vak succesvol af te kunnen leggen moeten jullie een werkende Linux-omgeving ter beschikking hebben.
 
-Indien je nog geen werkende Linux-omgeving geïnstalleerd hebt kan je stap 1 (en optioneel 2) van [deze tutorial](https://github.com/informaticawerktuigen/klaarzetten-werkomgeving) volgen.
+Indien je nog geen werkende Linux-omgeving geïnstalleerd hebt kan je stap 1 van [deze tutorial](https://github.com/informaticawerktuigen/klaarzetten-werkomgeving) volgen.
 
 > :warning: Indien je niet kiest voor Ubuntu is het de bedoeling dat je zelf uitzoekt hoe je aan alle nodige packages geraakt. De [Risc-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain) moet je dan waarschijnlijk zelf compileren.
 
@@ -42,8 +42,10 @@ Open een terminal met <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>.
 * Installeer alle nodige packages in Ubuntu:
 
     ```shell
-    sudo apt install build-essential qemu-system-misc gcc-riscv64-linux-gnu 
+    sudo apt install build-essential git qemu-system-misc gcc-riscv64-linux-gnu 
     ```
+
+> :warning: Indien je een oude release van Ubuntu hebt (<20.04) zal je niet de laatste versie van de RISC-V compiler kunnen installeren. In dat geval moet je je distributie upgraden met ```sudo do-release-upgrade``` of de compiler zelf builden vanuit de RISC-V GNU Toolchain Git repository.
 
 # xv6
 
