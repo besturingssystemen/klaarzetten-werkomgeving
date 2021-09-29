@@ -11,7 +11,7 @@
 
 In deze oefenzittingenreeks werken we met het besturingsssysteem xv6. 
 Ter voorbereiding van de oefenzitting vragen we om het eerste hoofdstuk (*Operating System interfaces*) van het [xv6 boek](https://github.com/besturingssystemen/xv6-riscv-book) te lezen.
-[Hier](https://github.com/besturingssystemen/xv6-riscv-book/releases/latest) kan je een recente PDF editie terugvinden.
+[Hier](https://github.com/besturingssystemen/xv6-riscv-book/releases/latest/download/book.pdf) kan je een recente PDF editie terugvinden.
 
 
 > :bulb: In de komende stappen van de voorbereiding kan er veel wachttijd zijn bij het downloaden en installeren van Ubuntu en de packages. Lees dit materiaal terwijl je moet wachten op de installaties.
