@@ -50,11 +50,11 @@ Open een terminal met <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>.
 
 # xv6
 
-Ten slotte willen we het besturingssysteem [xv6](https://github.com/mit-pdos/xv6-riscv) clonen en compileren naar [RISC-V](https://riscv.org/):
+Ten slotte willen we het besturingssysteem [xv6](https://github.com/besturingssystemen/xv6-riscv) clonen en compileren naar [RISC-V](https://riscv.org/):
 
 * Clone de xv6 git-repository
     ```shell 
-    git clone https://github.com/mit-pdos/xv6-riscv
+    git clone https://github.com/besturingssystemen/xv6-riscv
     ```
 * Compileer xv6
     ```shell
