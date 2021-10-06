@@ -35,14 +35,14 @@ Open een terminal met <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>.
 
 * Update je Linux-omgeving:
 
-    ```shell
+    ```PowerShell
     sudo apt update
     sudo apt upgrade
     ```
 
 * Installeer alle nodige packages in Ubuntu:
 
-    ```shell
+    ```PowerShell
     sudo apt install build-essential git qemu-system-misc gcc-riscv64-linux-gnu 
     ```
 
@@ -54,20 +54,20 @@ Ten slotte willen we het besturingssysteem [xv6](https://github.com/besturingssy
 
 * Clone de xv6 git-repository
 
-    ```shell
+    ```PowerShell
     git clone https://github.com/besturingssystemen/xv6-riscv
     ```
 
 * Compileer xv6
 
-    ```shell
+    ```PowerShell
     cd xv6-riscv
     make qemu
     ```
 
 Indien de compilatie succesvol is verlopen zal xv6 automatisch gestart worden in de huidige shell. Je krijgt nu onderstaande boodschap te zien:
 
-```shell
+```PowerShell
 xv6 kernel is booting
 
 hart 2 starting
