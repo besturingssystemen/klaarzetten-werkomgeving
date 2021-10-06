@@ -148,10 +148,14 @@ Your public key has been saved in /home/u0111663/.ssh/id_ed25519.pub
 
 Je hebt nu een public/private key pair.
 
-* Voer onderstaand commando uit
+* Voer onderstaand commando uit:
 
 ```PowerShell
-$ cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
+```
+Je krijgt nu een output te zien die er uitziet als volgt (de exacte output met jouw public key zal natuurlijk verschillen):
+
+```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDS/KnrnRBLvxMt5gOoA2vqcY6mzaa1ww3QUX2ufQa1w u0111663@ham
 ```
 
